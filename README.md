@@ -111,7 +111,8 @@ Application deployment and automation workflows.
 
 ## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-tauseefmarwat-181717?style=flat-square&logo=github)](https://github.com/tauseefmarwat)
+[![GitHub](https://img.shields.io/badge/GitHub-tauseefmarwat-181717?style=flat-square&logo=github)](https://github.com/tauseefmarwat) 
+[![Email](https://img.shields.io/badge/Email-tauseefmrwat%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tauseefmrwat@gmail.com)
 
 ---
 
